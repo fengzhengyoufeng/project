@@ -1,0 +1,84 @@
+2019-02-28 19:38:44,769 - BrowserEngine - INFO- chose browser：Chrome
+2019-02-28 19:38:44,769 - BrowserEngine - INFO- url：http://127.0.0.1/forum.php
+2019-02-28 19:38:47,127 - BrowserEngine - INFO- starting Chrome browser
+2019-02-28 19:38:48,661 - BrowserEngine - INFO- Maximize thecurrent window
+2019-02-28 19:38:48,797 - BasePage - INFO- 输入内容:admin
+2019-02-28 19:38:48,871 - BasePage - INFO- 输入内容:root
+2019-02-28 19:38:48,923 - BasePage - INFO- successful click
+2019-02-28 19:38:52,224 - BasePage - INFO- successful click
+2019-02-28 19:38:52,391 - BasePage - INFO- 输入内容:abs
+2019-02-28 19:38:52,493 - BasePage - INFO- 输入内容:士大夫各色如何如何速度非常
+2019-02-28 19:38:53,036 - BasePage - INFO- successful click
+2019-02-28 19:38:53,172 - BasePage - INFO- 输入内容:我也发现了
+2019-02-28 19:38:53,450 - BasePage - INFO- successful click
+2019-02-28 19:38:53,672 - BasePage - INFO- successful click
+2019-02-28 19:38:53,672 - BrowserEngine - INFO- close and quit the browser
+2019-02-28 19:38:55,934 - BrowserEngine - INFO- chose browser：Chrome
+2019-02-28 19:38:55,934 - BrowserEngine - INFO- url：http://127.0.0.1/forum.php
+2019-02-28 19:38:58,247 - BrowserEngine - INFO- starting Chrome browser
+2019-02-28 19:38:59,788 - BrowserEngine - INFO- Maximize thecurrent window
+2019-02-28 19:38:59,928 - BasePage - INFO- 输入内容:admin
+2019-02-28 19:39:00,008 - BasePage - INFO- 输入内容:root
+2019-02-28 19:39:00,067 - BasePage - INFO- successful click
+2019-02-28 19:39:03,377 - BasePage - INFO- successful click
+2019-02-28 19:39:06,436 - BasePage - INFO- successful click
+2019-02-28 19:39:09,622 - BasePage - INFO- successful click
+2019-02-28 19:39:13,090 - BasePage - INFO- successful click
+2019-02-28 19:39:13,265 - BasePage - INFO- successful click
+2019-02-28 19:39:13,272 - BasePage - INFO- Window switch to current
+2019-02-28 19:39:16,985 - BasePage - INFO- successful click
+2019-02-28 19:39:22,014 - BasePage - INFO- finding this element
+2019-02-28 19:39:22,045 - BasePage - INFO- goto iframe
+2019-02-28 19:39:22,156 - BasePage - INFO- successful click
+2019-02-28 19:39:22,290 - BasePage - INFO- 输入内容:asdfwe
+2019-02-28 19:39:22,529 - BasePage - INFO- successful click
+2019-02-28 19:39:22,533 - BasePage - INFO- Window switch to current
+2019-02-28 19:39:22,850 - BasePage - INFO- successful click
+2019-02-28 19:39:23,089 - BasePage - INFO- successful click
+2019-02-28 19:39:25,343 - BasePage - INFO- 输入内容:zhang
+2019-02-28 19:39:25,414 - BasePage - INFO- 输入内容:123456
+2019-02-28 19:39:25,470 - BasePage - INFO- successful click
+2019-02-28 19:39:28,718 - BasePage - INFO- successful click
+2019-02-28 19:39:28,860 - BasePage - INFO- 输入内容:小红花
+2019-02-28 19:39:28,960 - BasePage - INFO- 输入内容:小兵今天上课得到了一朵小红花
+2019-02-28 19:39:29,492 - BasePage - INFO- successful click
+2019-02-28 19:39:37,602 - BasePage - INFO- 输入内容:好样的
+2019-02-28 19:39:37,665 - BasePage - INFO- successful click
+2019-02-28 19:39:37,665 - BrowserEngine - INFO- close and quit the browser
+2019-02-28 19:39:39,961 - BrowserEngine - INFO- chose browser：Chrome
+2019-02-28 19:39:39,961 - BrowserEngine - INFO- url：http://127.0.0.1/forum.php
+2019-02-28 19:39:42,361 - BrowserEngine - INFO- starting Chrome browser
+2019-02-28 19:39:43,897 - BrowserEngine - INFO- Maximize thecurrent window
+2019-02-28 19:39:44,039 - BasePage - INFO- 输入内容:admin
+2019-02-28 19:39:44,110 - BasePage - INFO- 输入内容:root
+2019-02-28 19:39:44,172 - BasePage - INFO- successful click
+2019-02-28 19:39:47,276 - BasePage - INFO- 输入内容:hao
+2019-02-28 19:39:47,358 - BasePage - INFO- successful click
+2019-02-28 19:39:47,370 - BasePage - INFO- Window switch to current
+2019-02-28 19:39:48,660 - BasePage - INFO- successful click
+2019-02-28 19:39:48,790 - BasePage - INFO- successful click
+2019-02-28 19:39:48,795 - BasePage - INFO- Window switch to current
+2019-02-28 19:39:49,845 - BasePage - INFO- finding this element
+2019-02-28 19:39:49,872 - BrowserEngine - INFO- close and quit the browser
+2019-02-28 19:39:52,158 - BrowserEngine - INFO- chose browser：Chrome
+2019-02-28 19:39:52,158 - BrowserEngine - INFO- url：http://127.0.0.1/forum.php
+2019-02-28 19:39:54,455 - BrowserEngine - INFO- starting Chrome browser
+2019-02-28 19:39:55,991 - BrowserEngine - INFO- Maximize thecurrent window
+2019-02-28 19:39:56,140 - BasePage - INFO- 输入内容:admin
+2019-02-28 19:39:56,220 - BasePage - INFO- 输入内容:root
+2019-02-28 19:39:56,279 - BasePage - INFO- successful click
+2019-02-28 19:39:59,609 - BasePage - INFO- successful click
+2019-02-28 19:40:00,060 - BasePage - INFO- successful click
+2019-02-28 19:40:00,476 - BasePage - INFO- successful click
+2019-02-28 19:40:02,611 - BasePage - INFO- 输入内容:该不该休息
+2019-02-28 19:40:02,697 - BasePage - INFO- 输入内容:不该
+2019-02-28 19:40:02,767 - BasePage - INFO- 输入内容:该
+2019-02-28 19:40:02,842 - BasePage - INFO- successful click
+2019-02-28 19:40:03,502 - BasePage - INFO- successful click
+2019-02-28 19:40:04,015 - BasePage - INFO- successful click
+2019-02-28 19:40:04,112 - BasePage - INFO- finding this element
+2019-02-28 19:40:04,163 - BasePage - INFO- finding this element
+2019-02-28 19:40:04,207 - BasePage - INFO- finding this element
+2019-02-28 19:40:04,253 - BasePage - INFO- finding this element
+2019-02-28 19:40:04,299 - BasePage - INFO- finding this element
+2019-02-28 19:40:04,319 - BrowserEngine - INFO- close and quit the browser
