@@ -13,5 +13,5 @@ class Test_forum1_earch(BaseTeseCase):
 
 
 
-if __name__=="__file__":
+if __name__=="__main__":
     unittest.main()

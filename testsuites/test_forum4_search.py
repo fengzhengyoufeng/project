@@ -3,7 +3,7 @@ from pageobjects.luntan_homepage import LuntanHomePage
 from testsuites.base_testcase import BaseTeseCase
 import time
 class Test_forum4_earch(BaseTeseCase):
-    def test_forum1_earce(self):
+    def test_forum4_earce(self):
         h = LuntanHomePage(self.driver)  # 声明对象
         # h.get("http://127.0.0.1/forum.php")
         h.login_search("admin", "root")
@@ -13,5 +13,6 @@ class Test_forum4_earch(BaseTeseCase):
         h.toupiao_bili_search()
 
 
-if __name__==__file__:
+
+if __name__=="__main__":
     unittest.main()
