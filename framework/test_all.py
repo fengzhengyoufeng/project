@@ -1,11 +1,12 @@
 import unittest
 import  HTMLTestRunner
 import os
+import sys
 from testsuites.test_forum1_search import Test_forum1_earch
 from testsuites.test_forum2_search import  Test_forum2_earch
 from testsuites.test_forum3_search import Test_forum3_earch
 from testsuites.test_forum4_search import Test_forum4_earch
-
+sys.path.append("C:\\Users\17394\\PycharmProjects\\untitled\\")
 #设置报告文件的保存路径
 cur_path=os.path.dirname(os.path.dirname(__file__))
 report_path=os.path.join(cur_path,"report")
